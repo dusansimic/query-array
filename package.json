@@ -1,0 +1,18 @@
+{
+  "name": "query-array",
+  "version": "0.0.0",
+  "description": "Simple library for querying arrays.",
+  "main": "index.js",
+  "repository": "https://github.com/dusansimic/query-array.git",
+  "author": "Dušan Simić <dusan.simic1810@gmail.com> (http://dusansimic.cf)",
+  "license": "MIT",
+  "dependencies": {
+    "is-plain-obj": "^1.1.0"
+  },
+  "devDependencies": {
+    "xo": "*"
+  },
+  "scripts": {
+    "test": "xo"
+  }
+}
